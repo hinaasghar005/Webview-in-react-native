@@ -14,7 +14,7 @@ You need to have a development environment setup for React Native. If that's not
 
 Clone the repository
 
-```git clone https://github.com/agilitation/react-native-webview-example```
+```https://github.com/hinaasghar005/Webview-in-react-native.git```
 
 ```npm install```
 
